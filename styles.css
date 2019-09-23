@@ -29,6 +29,15 @@ body, html {
 .black {
     background-color: black;   
 }
+    .orange {
+        background-color: orange;   
+}
+.green {
+    background-color: green;   
+}
+.pink{
+    background-color: pink;
+}
 .right {
     float: right;
 }
@@ -36,10 +45,25 @@ body, html {
     width: 100px;
     height: 140px;
 }
-
+.mediumbox2 {
+    width: 100px;
+    height: 100px;
+}
+#divider1 {
+    height: 290px;
+    width: 10px;
+}
 #divider2 {
     height: 10px;
     width: 100px;
+}
+#divider3 {
+    height: 10px;
+    width: 400px;
+}
+#divider3 {
+    height: 100px;
+    width: 10px;
 }
 #middlerow{
     height: 290px;
